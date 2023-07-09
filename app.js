@@ -44,7 +44,7 @@ const songs = [
     {
         id:"8",
         songName: `Baby im a Renagade <br><div class="subtitle">Axwell Ingrosso-Renegade</div>`,
-        poster: "img/8.jpg",
+        poster: "img/8.png",
     },
     {
         id:"9",
